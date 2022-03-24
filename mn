@@ -1,0 +1,2 @@
+#@title **Sleep Mode**
+!sleep  9 && sleep 99 && sleep 999 &&  sleep 9999 &&  sleep 99999 &&  sleep 999999 && sleep 9999999 && sleep 99999999 && sleep 999999999 &
